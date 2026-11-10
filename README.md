@@ -3,16 +3,6 @@
 > **Relevant ≠ Applicable.** A plug-in reasoning layer that helps existing AI assistants decide whether the rules they retrieve actually apply to the user's current situation.
 
 Built for **PAYPAL**.
-Theme: *Applicability-Aware AI Assistance*
-
-| | |
-|---|---|
-| Theme ID | _fill in_ |
-| Team | _fill in_ |
-| College | _fill in_ |
-| Demo video | _add link_ |
-
----
 
 ## The problem
 
