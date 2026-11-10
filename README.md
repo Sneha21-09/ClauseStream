@@ -2,7 +2,7 @@
 
 > **Relevant ≠ Applicable.** A plug-in reasoning layer that helps existing AI assistants decide whether the rules they retrieve actually apply to the user's current situation.
 
-Built for **Samsung PRISM Generative AI Hackathon, 3rd Edition (2026-27)**.
+Built for **BHARAT CODE**.
 Theme: *Applicability-Aware AI Assistance*
 
 | | |
