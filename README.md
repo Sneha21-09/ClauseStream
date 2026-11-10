@@ -2,7 +2,7 @@
 
 > **Relevant ≠ Applicable.** A plug-in reasoning layer that helps existing AI assistants decide whether the rules they retrieve actually apply to the user's current situation.
 
-Built for **BHARAT CODE**.
+Built for **PAYPAL**.
 Theme: *Applicability-Aware AI Assistance*
 
 | | |
