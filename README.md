@@ -136,10 +136,3 @@ Covers fact extraction, retrieval filtering, clarification instead of guessing, 
 
 - **Phase 2**: nested exceptions, effective-date / precedence conflict resolution, a learned retrieve / wait / ask / suppress controller
 - **Phase 3**: ClauseStream as an API service for existing assistants (FastAPI + WebSocket), LLM clause extraction, FAISS + SQLite FTS5 hybrid retrieval, broader domains (HR, finance, compliance, product support)
-
-## Submission checklist
-
-- [ ] Public GitHub repo with this prototype
-- [ ] README with setup (this file)
-- [ ] Demo video (max 5 minutes)
-- [ ] Presentation file (PPT or PDF)
